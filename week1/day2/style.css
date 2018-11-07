@@ -1,0 +1,20 @@
+html{
+	background:url(topography.jpg) no-repeat center center fixed;
+	background-size:cover;
+}
+
+header{
+	text-align:right;
+}
+
+.name{
+	color:red;
+}
+
+h2{
+	text-align:center;
+}
+
+#content{
+	margin:70px;
+}

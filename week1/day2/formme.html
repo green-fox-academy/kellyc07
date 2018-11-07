@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<style type="text/css">
+			.warp{
+				margin: 32px 30%;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="wrap">
+		<form action=""/save-data" method="post">
+	<fieldset>
+			<legend for="topic">Interesting application form</legend> 
+  		<fieldset>
+		    <legend for= "name">What is your name?</legend>
+		    <input type="text">
+		</br>
+		</fieldset>
+		<fieldset>
+			<legend for="color">What is your favourite color?</legend>
+			</br>
+				<form name="ckeckbox" method="post" action="save php">
+					<input type="checkbox" name="checkbox1"
+					value="Red">
+					<label for="checkbox1">Red</label></br>
+					<input type="checkbox" name="checkbox2" value="Green">
+					<label for="checkbox1">Green</label></br>
+					<input type="checkbox" name="checkbox3" value="Blue">
+					<label for="checkbox1">Blue</label></br>
+					<input type="checkbox" name="checkbox4"value="Other">
+					<label for="checkbox1">Other</label><input type="text">
+				</form>
+		</fieldset>
+		<fieldset>
+			<legend>for="dream">Would you like to become a developer?</legend>
+				<form name="dream" method="post" action="save php">
+					<input type="radio" name="radioLove" value="Yes">
+					<label for ="dream1">Yes</label></br>
+					<input type="radio" name="radioLove" value="Ano">
+					<label for ="dream2">Ano</label></br>
+					<input type="radio" name="radioLove" value="Igen">
+					<label for ="dream3">Igen</label></br>
+					<input type="radio" name="radioLove" value="是">
+					<label for ="dream3">是</label>
+		</fieldset>
+		<fieldset>
+					<legend for="why">Why would you like to become a developer?</legend>
+			</br>
+		<form method="post" action="save.php">
+			<textarea cols="50" rows="10">            </textarea>
+		</form>
+		</fieldset>
+			<button type="submit">submit</button>
+		</form>
+	</form>
+</fieldset>
+		</div>
+	</body>
+</html>
