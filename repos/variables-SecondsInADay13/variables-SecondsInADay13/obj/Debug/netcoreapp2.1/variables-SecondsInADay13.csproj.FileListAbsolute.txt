@@ -1,0 +1,11 @@
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\bin\Debug\netcoreapp2.1\variables-SecondsInADay13.deps.json
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\bin\Debug\netcoreapp2.1\variables-SecondsInADay13.runtimeconfig.json
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\bin\Debug\netcoreapp2.1\variables-SecondsInADay13.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\bin\Debug\netcoreapp2.1\variables-SecondsInADay13.dll
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\bin\Debug\netcoreapp2.1\variables-SecondsInADay13.pdb
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\obj\Debug\netcoreapp2.1\variables-SecondsInADay13.csprojAssemblyReference.cache
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\obj\Debug\netcoreapp2.1\variables-SecondsInADay13.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\obj\Debug\netcoreapp2.1\variables-SecondsInADay13.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\obj\Debug\netcoreapp2.1\variables-SecondsInADay13.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\obj\Debug\netcoreapp2.1\variables-SecondsInADay13.dll
+c:\users\kelly_chen\source\repos\variables-SecondsInADay13\variables-SecondsInADay13\obj\Debug\netcoreapp2.1\variables-SecondsInADay13.pdb

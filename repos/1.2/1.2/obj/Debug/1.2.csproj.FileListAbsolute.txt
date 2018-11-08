@@ -1,0 +1,6 @@
+c:\users\kelly_chen\source\repos\1.2\1.2\bin\Debug\1.2.exe.config
+c:\users\kelly_chen\source\repos\1.2\1.2\bin\Debug\1.2.exe
+c:\users\kelly_chen\source\repos\1.2\1.2\bin\Debug\1.2.pdb
+c:\users\kelly_chen\source\repos\1.2\1.2\obj\Debug\1.2.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\1.2\1.2\obj\Debug\1.2.exe
+c:\users\kelly_chen\source\repos\1.2\1.2\obj\Debug\1.2.pdb

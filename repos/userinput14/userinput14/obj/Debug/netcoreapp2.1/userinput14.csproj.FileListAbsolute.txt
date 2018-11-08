@@ -1,0 +1,10 @@
+c:\users\kelly_chen\source\repos\userinput14\userinput14\bin\Debug\netcoreapp2.1\userinput14.deps.json
+c:\users\kelly_chen\source\repos\userinput14\userinput14\bin\Debug\netcoreapp2.1\userinput14.runtimeconfig.json
+c:\users\kelly_chen\source\repos\userinput14\userinput14\bin\Debug\netcoreapp2.1\userinput14.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\userinput14\userinput14\bin\Debug\netcoreapp2.1\userinput14.dll
+c:\users\kelly_chen\source\repos\userinput14\userinput14\bin\Debug\netcoreapp2.1\userinput14.pdb
+c:\users\kelly_chen\source\repos\userinput14\userinput14\obj\Debug\netcoreapp2.1\userinput14.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\userinput14\userinput14\obj\Debug\netcoreapp2.1\userinput14.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\userinput14\userinput14\obj\Debug\netcoreapp2.1\userinput14.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\userinput14\userinput14\obj\Debug\netcoreapp2.1\userinput14.dll
+c:\users\kelly_chen\source\repos\userinput14\userinput14\obj\Debug\netcoreapp2.1\userinput14.pdb

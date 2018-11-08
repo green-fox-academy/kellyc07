@@ -1,0 +1,10 @@
+c:\users\kelly_chen\source\repos\variables1\variables1\bin\Debug\netcoreapp2.1\variables1.deps.json
+c:\users\kelly_chen\source\repos\variables1\variables1\bin\Debug\netcoreapp2.1\variables1.runtimeconfig.json
+c:\users\kelly_chen\source\repos\variables1\variables1\bin\Debug\netcoreapp2.1\variables1.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\variables1\variables1\bin\Debug\netcoreapp2.1\variables1.dll
+c:\users\kelly_chen\source\repos\variables1\variables1\bin\Debug\netcoreapp2.1\variables1.pdb
+c:\users\kelly_chen\source\repos\variables1\variables1\obj\Debug\netcoreapp2.1\variables1.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\variables1\variables1\obj\Debug\netcoreapp2.1\variables1.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\variables1\variables1\obj\Debug\netcoreapp2.1\variables1.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\variables1\variables1\obj\Debug\netcoreapp2.1\variables1.dll
+c:\users\kelly_chen\source\repos\variables1\variables1\obj\Debug\netcoreapp2.1\variables1.pdb

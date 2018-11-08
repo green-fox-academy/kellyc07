@@ -1,0 +1,11 @@
+c:\users\kelly_chen\source\repos\types1\types1\obj\Debug\netcoreapp2.1\types1.csprojAssemblyReference.cache
+c:\users\kelly_chen\source\repos\types1\types1\obj\Debug\netcoreapp2.1\types1.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\types1\types1\obj\Debug\netcoreapp2.1\types1.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\types1\types1\obj\Debug\netcoreapp2.1\types1.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\types1\types1\bin\Debug\netcoreapp2.1\types1.deps.json
+c:\users\kelly_chen\source\repos\types1\types1\bin\Debug\netcoreapp2.1\types1.runtimeconfig.json
+c:\users\kelly_chen\source\repos\types1\types1\bin\Debug\netcoreapp2.1\types1.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\types1\types1\bin\Debug\netcoreapp2.1\types1.dll
+c:\users\kelly_chen\source\repos\types1\types1\bin\Debug\netcoreapp2.1\types1.pdb
+c:\users\kelly_chen\source\repos\types1\types1\obj\Debug\netcoreapp2.1\types1.dll
+c:\users\kelly_chen\source\repos\types1\types1\obj\Debug\netcoreapp2.1\types1.pdb

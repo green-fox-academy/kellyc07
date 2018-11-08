@@ -1,0 +1,10 @@
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\obj\Debug\netcoreapp2.1\variables-DefineBasicInfo10.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\obj\Debug\netcoreapp2.1\variables-DefineBasicInfo10.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\obj\Debug\netcoreapp2.1\variables-DefineBasicInfo10.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\bin\Debug\netcoreapp2.1\variables-DefineBasicInfo10.deps.json
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\bin\Debug\netcoreapp2.1\variables-DefineBasicInfo10.runtimeconfig.json
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\bin\Debug\netcoreapp2.1\variables-DefineBasicInfo10.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\bin\Debug\netcoreapp2.1\variables-DefineBasicInfo10.dll
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\bin\Debug\netcoreapp2.1\variables-DefineBasicInfo10.pdb
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\obj\Debug\netcoreapp2.1\variables-DefineBasicInfo10.dll
+c:\users\kelly_chen\source\repos\variables-DefineBasicInfo10\variables-DefineBasicInfo10\obj\Debug\netcoreapp2.1\variables-DefineBasicInfo10.pdb

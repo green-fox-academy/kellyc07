@@ -1,0 +1,11 @@
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.deps.json
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.runtimeconfig.json
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.dll
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.pdb
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.dll
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.pdb
+c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.csprojAssemblyReference.cache

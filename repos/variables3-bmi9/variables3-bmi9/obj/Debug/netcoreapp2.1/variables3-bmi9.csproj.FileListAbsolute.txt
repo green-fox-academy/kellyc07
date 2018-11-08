@@ -1,0 +1,10 @@
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\bin\Debug\netcoreapp2.1\variables3-bmi9.deps.json
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\bin\Debug\netcoreapp2.1\variables3-bmi9.runtimeconfig.json
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\bin\Debug\netcoreapp2.1\variables3-bmi9.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\bin\Debug\netcoreapp2.1\variables3-bmi9.dll
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\bin\Debug\netcoreapp2.1\variables3-bmi9.pdb
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\obj\Debug\netcoreapp2.1\variables3-bmi9.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\obj\Debug\netcoreapp2.1\variables3-bmi9.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\obj\Debug\netcoreapp2.1\variables3-bmi9.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\obj\Debug\netcoreapp2.1\variables3-bmi9.dll
+c:\users\kelly_chen\source\repos\variables3-bmi9\variables3-bmi9\obj\Debug\netcoreapp2.1\variables3-bmi9.pdb

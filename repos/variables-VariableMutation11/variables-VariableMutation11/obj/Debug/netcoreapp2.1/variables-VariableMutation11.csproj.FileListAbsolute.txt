@@ -1,0 +1,11 @@
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\obj\Debug\netcoreapp2.1\variables-VariableMutation11.csprojAssemblyReference.cache
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\obj\Debug\netcoreapp2.1\variables-VariableMutation11.csproj.CoreCompileInputs.cache
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\obj\Debug\netcoreapp2.1\variables-VariableMutation11.AssemblyInfoInputs.cache
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\obj\Debug\netcoreapp2.1\variables-VariableMutation11.AssemblyInfo.cs
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\bin\Debug\netcoreapp2.1\variables-VariableMutation11.deps.json
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\bin\Debug\netcoreapp2.1\variables-VariableMutation11.runtimeconfig.json
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\bin\Debug\netcoreapp2.1\variables-VariableMutation11.runtimeconfig.dev.json
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\bin\Debug\netcoreapp2.1\variables-VariableMutation11.dll
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\bin\Debug\netcoreapp2.1\variables-VariableMutation11.pdb
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\obj\Debug\netcoreapp2.1\variables-VariableMutation11.dll
+c:\users\kelly_chen\source\repos\variables-VariableMutation11\variables-VariableMutation11\obj\Debug\netcoreapp2.1\variables-VariableMutation11.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kelly_Chen\source\repos\firsttestcl\firsttestcl\bin\Debug\firsttestcl.exe.config
+C:\Users\Kelly_Chen\source\repos\firsttestcl\firsttestcl\bin\Debug\firsttestcl.exe
+C:\Users\Kelly_Chen\source\repos\firsttestcl\firsttestcl\bin\Debug\firsttestcl.pdb
+C:\Users\Kelly_Chen\source\repos\firsttestcl\firsttestcl\obj\Debug\firsttestcl.csprojAssemblyReference.cache
+C:\Users\Kelly_Chen\source\repos\firsttestcl\firsttestcl\obj\Debug\firsttestcl.csproj.CoreCompileInputs.cache
+C:\Users\Kelly_Chen\source\repos\firsttestcl\firsttestcl\obj\Debug\firsttestcl.exe
+C:\Users\Kelly_Chen\source\repos\firsttestcl\firsttestcl\obj\Debug\firsttestcl.pdb
