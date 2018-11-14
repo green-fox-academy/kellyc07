@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\kelly_chen\\source\\repos\\variables2-swap\\variables2-swap\\variables2-swap.csproj",
+      "projectUniqueName": "C:\\Users\\Kelly_Chen\\Documents\\GitHub\\kellyc07\\week1\\day4\\variables2-swap\\variables2-swap\\variables2-swap.csproj",
       "projectName": "variables2-swap",
-      "projectPath": "c:\\users\\kelly_chen\\source\\repos\\variables2-swap\\variables2-swap\\variables2-swap.csproj",
+      "projectPath": "C:\\Users\\Kelly_Chen\\Documents\\GitHub\\kellyc07\\week1\\day4\\variables2-swap\\variables2-swap\\variables2-swap.csproj",
       "packagesPath": "C:\\Users\\Kelly_Chen\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\kelly_chen\\source\\repos\\variables2-swap\\variables2-swap\\obj\\",
+      "outputPath": "C:\\Users\\Kelly_Chen\\Documents\\GitHub\\kellyc07\\week1\\day4\\variables2-swap\\variables2-swap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ c:\users\kelly_chen\source\repos\MileToKmConverter15\MileToKmConverter15\bin\Deb
 c:\users\kelly_chen\source\repos\MileToKmConverter15\MileToKmConverter15\bin\Debug\netcoreapp2.1\MileToKmConverter15.pdb
 c:\users\kelly_chen\source\repos\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.dll
 c:\users\kelly_chen\source\repos\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.pdb
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\bin\Debug\netcoreapp2.1\MileToKmConverter15.deps.json
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\bin\Debug\netcoreapp2.1\MileToKmConverter15.runtimeconfig.json
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\bin\Debug\netcoreapp2.1\MileToKmConverter15.runtimeconfig.dev.json
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\bin\Debug\netcoreapp2.1\MileToKmConverter15.dll
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\bin\Debug\netcoreapp2.1\MileToKmConverter15.pdb
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.csprojAssemblyReference.cache
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.csproj.CoreCompileInputs.cache
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.AssemblyInfoInputs.cache
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.AssemblyInfo.cs
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.dll
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\MileToKmConverter15\MileToKmConverter15\obj\Debug\netcoreapp2.1\MileToKmConverter15.pdb

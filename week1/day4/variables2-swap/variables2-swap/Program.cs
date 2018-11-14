@@ -19,7 +19,7 @@ namespace variables2_swap
             temp = a;
             a = b;
             b = temp;
-            Console.WriteLine("print{0},{1}",a,b);
+            Console.WriteLine($"print{a},{b}");
            
         }
     }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\kelly_chen\\source\\repos\\MileToKmConverter15\\MileToKmConverter15\\MileToKmConverter15.csproj",
+      "projectUniqueName": "C:\\Users\\Kelly_Chen\\Documents\\GitHub\\kellyc07\\week1\\day4\\MileToKmConverter15\\MileToKmConverter15\\MileToKmConverter15.csproj",
       "projectName": "MileToKmConverter15",
-      "projectPath": "c:\\users\\kelly_chen\\source\\repos\\MileToKmConverter15\\MileToKmConverter15\\MileToKmConverter15.csproj",
+      "projectPath": "C:\\Users\\Kelly_Chen\\Documents\\GitHub\\kellyc07\\week1\\day4\\MileToKmConverter15\\MileToKmConverter15\\MileToKmConverter15.csproj",
       "packagesPath": "C:\\Users\\Kelly_Chen\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\kelly_chen\\source\\repos\\MileToKmConverter15\\MileToKmConverter15\\obj\\",
+      "outputPath": "C:\\Users\\Kelly_Chen\\Documents\\GitHub\\kellyc07\\week1\\day4\\MileToKmConverter15\\MileToKmConverter15\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netco
 c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.dll
 c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.pdb
 c:\users\kelly_chen\source\repos\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.csprojAssemblyReference.cache
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.deps.json
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.runtimeconfig.json
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.runtimeconfig.dev.json
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.dll
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\bin\Debug\netcoreapp2.1\variables2-swap.pdb
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.csprojAssemblyReference.cache
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.csproj.CoreCompileInputs.cache
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.AssemblyInfoInputs.cache
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.AssemblyInfo.cs
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.dll
+C:\Users\Kelly_Chen\Documents\GitHub\kellyc07\week1\day4\variables2-swap\variables2-swap\obj\Debug\netcoreapp2.1\variables2-swap.pdb

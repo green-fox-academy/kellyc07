@@ -10,7 +10,7 @@ namespace MileToKmConverter15
             // then it converts that value to miles and prints it
 
             Console.WriteLine("input the data");
-            int distance =int.Parse(Console.ReadLine());
+            int distance =Convert.ToInt32(Console.ReadLine());
             decimal miles = Convert.ToDecimal(distance * 0.62);
             Console.WriteLine(miles);
 
