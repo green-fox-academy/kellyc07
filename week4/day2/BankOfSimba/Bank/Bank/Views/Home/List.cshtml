@@ -1,0 +1,33 @@
+﻿@using Bank.Models
+@model List<BankAccount>
+
+
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Balance</th>
+        <th>AnimalType</th>
+        <th>List</th>
+    </tr>
+    @foreach (var banklist in Model)
+    {
+        <tr>
+            <td>@banklist.Name</td>
+            <td>@banklist.Balance</td>
+            <td>@banklist.AnimalType</td>
+            <td>@banklist</td>
+        </tr>
+    }
+    <form action="/" method="post">
+        <label>Name</label><br />
+        <input type="text" name="Name" /><br />
+        <label>Balance</label><br />
+        <input type="text" name="Age" /><br />
+        <label>AnimalType</label><br />
+        <input type="text" name="Pet.Name" /><br />
+        <button type="submit">Add</button>
+    </form>
+    
+    
+</table>
